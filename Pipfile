@@ -4,11 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-ipdb = "*"
 sqlalchemy = "*"
 alembic = "*"
 tabulate = "*"
-faker = "*"
+ipython = "*"
+ipdb = "*"
 
 [dev-packages]
 
